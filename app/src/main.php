@@ -541,7 +541,7 @@
                         <div class="row">
                             <div class="col-6 col-lg">
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" id="typeOfRoof1" checked>
+                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Gable" id="typeOfRoof1" checked>
                                     <label class="form-check-label w-100" for="typeOfRoof1">
                                         <div class="d-flex justify-content-md-between">
                                             <div class="order-2 order-md-1 ps-3 ps-md-0">Gable</div>
@@ -550,7 +550,7 @@
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" id="typeOfRoof2">
+                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Shed" id="typeOfRoof2">
                                     <label class="form-check-label w-100" for="typeOfRoof2">
                                         <div class="d-flex justify-content-md-between">
                                             <div class="order-2 order-md-1 ps-3 ps-md-0">Shed</div>
@@ -561,7 +561,7 @@
                             </div>
                             <div class="col-6 col-lg">
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" id="typeOfRoof3">
+                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Hip" id="typeOfRoof3">
                                     <label class="form-check-label w-100" for="typeOfRoof3">
                                         <div class="d-flex justify-content-md-between">
                                             <div class="order-2 order-md-1 ps-3 ps-md-0">Hip</div>
@@ -570,7 +570,7 @@
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" id="typeOfRoof4">
+                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Butterfly" id="typeOfRoof4">
                                     <label class="form-check-label w-100" for="typeOfRoof4">
                                         <div class="d-flex justify-content-md-between">
                                             <div class="order-2 order-md-1 ps-3 ps-md-0">Butterfly</div>
@@ -581,7 +581,7 @@
                             </div>
                             <div class="col-6 col-lg">
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" id="typeOfRoof5">
+                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Dutch" id="typeOfRoof5">
                                     <label class="form-check-label w-100" for="typeOfRoof5">
                                         <div class="d-flex justify-content-md-between">
                                             <div class="order-2 order-md-1 ps-3 ps-md-0">Dutch</div>
@@ -590,7 +590,7 @@
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" id="typeOfRoof6">
+                                    <input class="form-check-input" type="radio" name="typeOfRoof"value="Gambrel" id="typeOfRoof6">
                                     <label class="form-check-label w-100" for="typeOfRoof6">
                                         <div class="d-flex justify-content-md-between">
                                             <div class="order-2 order-md-1 ps-3 ps-md-0">Gambrel</div>
@@ -601,7 +601,7 @@
                             </div>
                             <div class="col-6 col-lg">
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" id="typeOfRoof7">
+                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Mansard" id="typeOfRoof7">
                                     <label class="form-check-label w-100" for="typeOfRoof7">
                                         <div class="d-flex justify-content-md-between">
                                             <div class="order-2 order-md-1 ps-3 ps-md-0">Mansard</div>
@@ -610,7 +610,7 @@
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" id="typeOfRoof8">
+                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Dormer" id="typeOfRoof8">
                                     <label class="form-check-label w-100" for="typeOfRoof8">
                                         <div class="d-flex justify-content-md-between">
                                             <div class="order-2 order-md-1 ps-3 ps-md-0">Dormer</div>
@@ -621,7 +621,7 @@
                             </div>
                             <div class="col-6 col-lg">
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" id="typeOfRoof9">
+                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Flat" id="typeOfRoof9">
                                     <label class="form-check-label w-100" for="typeOfRoof9">
                                         <div class="d-flex justify-content-md-between">
                                             <div class="order-2 order-md-1 ps-3 ps-md-0">Flat</div>
@@ -630,7 +630,7 @@
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof" id="typeOfRoof10">
+                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="M Shaped" id="typeOfRoof10">
                                     <label class="form-check-label w-100" for="typeOfRoof10">
                                         <div class="d-flex justify-content-md-between">
                                             <div class="order-2 order-md-1 ps-3 ps-md-0">M Shaped</div>
@@ -731,7 +731,8 @@
                                 <input id="file-upload" class="form-control rounded-0" type="file" name="uploadedFile" onchange="fileUploaded('file-upload','uploaded-file-name')">
                             </div>
                             <div class="col">
-                                <div class="fs-16 fw-500" id="uploaded-file-name">No file chosen</div>
+                                <div class="fs-16 fw-500" id="uploaded-file-name">No file chosen
+                                </div>
                             </div>
                         </div>
                         <label class="fs-18 fw-400 text-grey pt-2 pt-md-3">Allowed Type(s): .pdf, .doc, .docx</label>
@@ -798,66 +799,6 @@
                         <div class="col-12 col-md-4 col-lg-auto"><?= renderImg('google-reviews.png', 'lib', 'w-100') ?></div>
                         <div class="col-12 col-md-4 col-lg-auto"><?= renderImg('youtube-channel.png', 'lib', 'w-100') ?></div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="footer-links d-none d-md-block">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 col-lg">
-                    <div class="fs-24 fw-700 text-white pb-4">Quick Links</div>
-                    <ul class="quick-links">
-                        <li><a href="">Home</a></li>
-                        <li><a href="">About Us</a></li>
-                        <li><a href="">Our Services</a></li>
-                        <li><a href="">Areas We Service</a></li>
-                        <li><a href="">Testimonials</a></li>
-                        <li><a href="">Contact Us</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-4 col-lg">
-                    <div class="fs-24 fw-700 text-white pb-4">Plumbing</div>
-                    <ul class="quick-links">
-                        <li><a href="">Broken Pipes Repair</a></li>
-                        <li><a href="">Burst Water Pipes Repair</a></li>
-                        <li><a href="">Commercial Plumbing</a></li>
-                        <li><a href="">Dishwasher Installation</a></li>
-                        <li><a href="">Jet Blasting</a></li>
-                        <li><a href="" class="text-white">See More</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-4 col-lg">
-                    <div class="fs-24 fw-700 text-white pb-4">Drains</div>
-                    <ul class="quick-links">
-                        <li><a href="">Blocked Drains</a></li>
-                        <li><a href="">Blocked Pipes</a></li>
-                        <li><a href="">Blocked Sewers</a></li>
-                        <li><a href="">Drain Camera Inspection</a></li>
-                        <li><a href="">Drain Repairs</a></li>
-                        <li><a href="" class="text-white">See More</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-4 col-lg">
-                    <div class="fs-24 fw-700 text-white pb-4">Hot Water</div>
-                    <ul class="quick-links">
-                        <li><a href="">Dux Hot Water</a></li>
-                        <li><a href="">Electric Hot Water Systems</a></li>
-                        <li><a href="">Hot Water Heater Brands</a></li>
-                        <li><a href="">Hot Water Heater Installation</a></li>
-                        <li><a href="">Hot Water Heater</a></li>
-                        <li><a href="" class="text-white">See More</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-4 col-lg-2">
-                    <div class="fs-24 fw-700 text-white pb-4">Support</div>
-                    <ul class="quick-links">
-                        <li><a href="">Contact Us</a></li>
-                        <li><a href="">Book Online</a></li>
-                        <li><a href="">Testimonials</a></li>
-                        <li><a href="">FAQ</a></li>
-                        <li><a href="">Lifetime Membership</a></li>
-                    </ul>
                 </div>
             </div>
         </div>

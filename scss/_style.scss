@@ -277,6 +277,7 @@ section.form2 {
                 color: $grey;
 
                 @include media-breakpoint-up(lg) {
+                    padding: 8px 27px;
                     min-height: 70px;
                 }
             }

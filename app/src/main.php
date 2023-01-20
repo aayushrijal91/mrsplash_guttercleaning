@@ -61,10 +61,10 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-11 pt-4">
-                <h1 class="fs-72 text-white fw-700 lh-1 text-center">Professional, Local, <span class="text-primary">Near-Me</span> Sydney Roofing</h1>
+                <h1 class="fs-72 text-white fw-700 lh-1 text-center">Professional, Local, <span class="text-primary">Near-Me</span> Gutter Cleaning</h1>
             </div>
             <div class="col-12 pt-4">
-                <div class="text-white text-center fs-18 lh-1">We solve <b>ANY</b> kind of roofing job you can think of - <b>big or small, residential, commercial, strata or industrial</b></div>
+                <div class="text-white text-center fs-18 lh-1">We solve <b>ANY</b> kind of gutter job you can think of - <b>big or small, residential, commercial, strata or industrial</b></div>
             </div>
             <div class="col-12 pt-4">
                 <div class="row align-items-center">
@@ -411,7 +411,7 @@
                 <div class="row gy-4">
                     <div class="col-12">
                         <div class="reasons">
-                            We are a licensed<br> Plumbing Company
+                            We are a licensed<br> Gutter Cleaning Company
                         </div>
                     </div>
                     <div class="col-12">
@@ -426,7 +426,7 @@
                     </div>
                     <div class="col-12">
                         <div class="reasons py-3">
-                            Free Lifetime Membership Plans with every Roof Job Sydney
+                            Free Lifetime Membership Plans with every Gutter Cleaning Job Sydney
                             <div class="fs-14 text-grey fw-300 pt-2">www.mrsplashplumbing.com.au/membership</div>
                         </div>
                     </div>
@@ -457,7 +457,7 @@
                     </div>
                     <div class="col-12">
                         <div class="reasons py-3">
-                            We know Design &<br> Roofing Design
+                            We know Gutters &<br> Gutter Maintenance
                         </div>
                     </div>
                     <div class="col-12">
@@ -468,8 +468,7 @@
                 </div>
             </div>
         </div>
-
-        <div class="text-center fs-18 lh-1_67 text-grey pt-6 d-none d-md-block">We <span class="text-white fw-500">BUILD ROOFS THAT LAST A LIFETIME</span>, you are more than likely Renovating your rood right now because of simply POOR workmanship your roof would be discoloured, experiencing cracks, visible mould elements inside the home due to leakage, a bad smell, black spots in the ceiling. This is the result of poor choices and not using a company like Mr Splash Plumbing & Roofing Renovations your licenced local Plumbing Company</div>
+        <div class="text-center fs-18 lh-1_67 text-grey pt-6 d-none d-md-block">We <span class="text-white fw-500">BUILD GUTTER CLEANINGS THAT LAST A LIFETIME</span>, you are more than likely Renovating your rood  right now because of simply POOR workmanship your gutter cleaning would be discoloured, experiencing cracks, visible mould elements inside the home due to leakage,  a bad smell, black spots in the ceiling. This is the result of poor choices and not using a company like Mr Splash Plumbing & Gutter Cleaning Services your licenced local Plumbing Company</div>
     </div>
 </section>
 
@@ -732,8 +731,7 @@
                                 <input id="file-upload" class="form-control rounded-0" type="file" name="uploadedFile" onchange="fileUploaded('file-upload','uploaded-file-name')">
                             </div>
                             <div class="col">
-                                <div class="fs-16 fw-500" id="uploaded-file-name">No file chosen
-                                </div>
+                                <div class="fs-16 fw-500" id="uploaded-file-name">No file chosen</div>
                             </div>
                         </div>
                         <label class="fs-18 fw-400 text-grey pt-2 pt-md-3">Allowed Type(s): .pdf, .doc, .docx</label>

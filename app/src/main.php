@@ -84,6 +84,19 @@
             <div class="col-12 pt-4">
                 <div class="row align-items-center">
                     <div class="col-auto">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#0383BF" class="bi bi-currency-dollar" viewBox="0 0 16 16">
+                                    <path d="M4 10.781c.148 1.667 1.513 2.85 3.591 3.003V15h1.043v-1.216c2.27-.179 3.678-1.438 3.678-3.3 0-1.59-.947-2.51-2.956-3.028l-.722-.187V3.467c1.122.11 1.879.714 2.07 1.616h1.47c-.166-1.6-1.54-2.748-3.54-2.875V1H7.591v1.233c-1.939.23-3.27 1.472-3.27 3.156 0 1.454.966 2.483 2.661 2.917l.61.162v4.031c-1.149-.17-1.94-.8-2.131-1.718H4zm3.391-3.836c-1.043-.263-1.6-.825-1.6-1.616 0-.944.704-1.641 1.8-1.828v3.495l-.2-.05zm1.591 1.872c1.287.323 1.852.859 1.852 1.769 0 1.097-.826 1.828-2.2 1.939V8.73l.348.086z" />
+                                </svg>
+                    </div>
+                    <div class="col">
+                        <div class="fs-24 text-white fw-700 lh-1">Gutter Cleaning from $499*</div>
+                        <div class="text-grey fs-14 lh-1">Terms & conditions may apply</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 pt-4">
+                <div class="row align-items-center">
+                    <div class="col-auto">
                         <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <circle cx="15.8943" cy="16.0481" r="15.8943" fill="white" />
                             <path d="M15.8943 0.153809C12.7507 0.153809 9.67769 1.08599 7.06389 2.83248C4.45009 4.57896 2.41289 7.0613 1.20989 9.9656C0.00688676 12.8699 -0.307873 16.0657 0.305411 19.1489C0.918695 22.2321 2.43248 25.0642 4.65533 27.287C6.87818 29.5099 9.71027 31.0236 12.7935 31.6369C15.8766 32.2502 19.0724 31.9355 21.9767 30.7325C24.881 29.5295 27.3634 27.4923 29.1099 24.8785C30.8564 22.2647 31.7885 19.1917 31.7885 16.0481C31.7835 11.8342 30.1074 7.79432 27.1277 4.81465C24.148 1.83498 20.1082 0.158804 15.8943 0.153809ZM20.3457 8.23107L22.097 5.81614C22.2525 5.603 22.4862 5.46034 22.7468 5.41954C23.0075 5.37874 23.2736 5.44314 23.4868 5.59859C23.6999 5.75403 23.8426 5.98778 23.8834 6.24841C23.9242 6.50904 23.8598 6.7752 23.7043 6.98834L21.954 9.3993C21.8773 9.50484 21.7805 9.59424 21.6693 9.66239C21.558 9.73054 21.4344 9.7761 21.3055 9.79649C21.1767 9.81688 21.0451 9.81168 20.9182 9.7812C20.7913 9.75072 20.6717 9.69555 20.5662 9.61884C20.4607 9.54214 20.3713 9.44539 20.3031 9.33414C20.235 9.22288 20.1894 9.09929 20.169 8.97043C20.1486 8.84156 20.1538 8.70994 20.1843 8.58308C20.2148 8.45623 20.269 8.33661 20.3457 8.23107ZM8.30377 5.60057C8.4094 5.52339 8.52923 5.46783 8.65639 5.43708C8.78355 5.40634 8.91553 5.40101 9.04475 5.42141C9.17398 5.44181 9.2979 5.48753 9.4094 5.55595C9.52091 5.62437 9.6178 5.71415 9.69452 5.82011L11.4459 8.23107C11.6008 8.44474 11.6645 8.7112 11.6229 8.97183C11.5814 9.23246 11.438 9.46591 11.2243 9.62083C11.0107 9.77575 10.7442 9.83944 10.4836 9.79789C10.223 9.75635 9.9895 9.61297 9.83458 9.3993L8.08423 6.98834C8.00751 6.88281 7.95233 6.7632 7.92184 6.63634C7.89135 6.50948 7.88615 6.37785 7.90654 6.24898C7.92692 6.12011 7.9725 5.99652 8.04065 5.88527C8.10881 5.77401 8.19822 5.67727 8.30377 5.60057ZM7.69879 19.7554L4.86763 20.6763C4.74199 20.7235 4.60809 20.7448 4.47401 20.7388C4.33993 20.7328 4.20845 20.6997 4.08751 20.6415C3.96657 20.5833 3.85868 20.5012 3.77034 20.4002C3.682 20.2992 3.61506 20.1813 3.57354 20.0536C3.53203 19.926 3.51681 19.7913 3.5288 19.6576C3.54079 19.5239 3.57975 19.3941 3.64331 19.2759C3.70688 19.1577 3.79374 19.0536 3.89865 18.9699C4.00356 18.8862 4.12434 18.8246 4.25371 18.7888L7.08786 17.868C7.21336 17.8213 7.34701 17.8004 7.48077 17.8067C7.61454 17.8129 7.74566 17.8461 7.86625 17.9044C7.98685 17.9626 8.09443 18.0446 8.18252 18.1454C8.27062 18.2463 8.33742 18.3639 8.3789 18.4912C8.42038 18.6186 8.43569 18.753 8.42391 18.8864C8.41212 19.0198 8.3735 19.1494 8.31034 19.2675C8.24718 19.3856 8.1608 19.4897 8.05639 19.5735C7.95198 19.6574 7.8317 19.7192 7.70277 19.7554H7.69879ZM16.8877 27.9688C16.8877 28.2322 16.783 28.4849 16.5967 28.6712C16.4104 28.8575 16.1577 28.9622 15.8943 28.9622C15.6308 28.9622 15.3781 28.8575 15.1918 28.6712C15.0055 28.4849 14.9009 28.2322 14.9009 27.9688V24.9886C14.9009 24.7251 15.0055 24.4725 15.1918 24.2862C15.3781 24.0999 15.6308 23.9952 15.8943 23.9952C16.1577 23.9952 16.4104 24.0999 16.5967 24.2862C16.783 24.4725 16.8877 24.7251 16.8877 24.9886V27.9688ZM15.8943 20.263L10.9402 22.8677L11.8859 17.3504L7.8776 13.4434L13.4168 12.6388L15.8943 7.61915L18.3718 12.6388L23.9109 13.4434L19.9026 17.3504L20.8493 22.8677L15.8943 20.263ZM26.9209 20.6763L24.0858 19.7554C23.9568 19.7192 23.8366 19.6574 23.7322 19.5735C23.6277 19.4897 23.5414 19.3856 23.4782 19.2675C23.4151 19.1494 23.3764 19.0198 23.3646 18.8864C23.3529 18.753 23.3682 18.6186 23.4097 18.4912C23.4511 18.3639 23.5179 18.2463 23.606 18.1454C23.6941 18.0446 23.8017 17.9626 23.9223 17.9044C24.0429 17.8461 24.174 17.8129 24.3078 17.8067C24.4415 17.8004 24.5752 17.8213 24.7007 17.868L27.5348 18.7888C27.7742 18.8788 27.9697 19.0576 28.0806 19.288C28.1915 19.5185 28.2092 19.7828 28.1301 20.026C28.051 20.2692 27.8812 20.4725 27.6559 20.5937C27.4307 20.7148 27.1674 20.7444 26.9209 20.6763Z" fill="#0383BF" />
@@ -200,6 +213,15 @@
                 <div class="row pt-4">
                     <div class="col">
                         <div class="row align-items-center pb-4">
+                            <div class="col-auto"><svg xmlns="http://www.w3.org/2000/svg" width="54" height="64" fill="#0383BF" class="bi bi-currency-dollar" viewBox="0 0 16 16">
+                                    <path d="M4 10.781c.148 1.667 1.513 2.85 3.591 3.003V15h1.043v-1.216c2.27-.179 3.678-1.438 3.678-3.3 0-1.59-.947-2.51-2.956-3.028l-.722-.187V3.467c1.122.11 1.879.714 2.07 1.616h1.47c-.166-1.6-1.54-2.748-3.54-2.875V1H7.591v1.233c-1.939.23-3.27 1.472-3.27 3.156 0 1.454.966 2.483 2.661 2.917l.61.162v4.031c-1.149-.17-1.94-.8-2.131-1.718H4zm3.391-3.836c-1.043-.263-1.6-.825-1.6-1.616 0-.944.704-1.641 1.8-1.828v3.495l-.2-.05zm1.591 1.872c1.287.323 1.852.859 1.852 1.769 0 1.097-.826 1.828-2.2 1.939V8.73l.348.086z" />
+                                </svg></div>
+                            <div class="col">
+                                <div class="fs-36 text-white fw-700 lh-1">Gutter Cleaning from $499*</div>
+                                <div class="text-grey fs-18 lh-1">Terms & conditions may apply</div>
+                            </div>
+                        </div>
+                        <div class="row align-items-center pt-3 pb-4">
                             <div class="col-auto"><?= renderImg('no-call.png', 'icons') ?></div>
                             <div class="col">
                                 <div class="fs-36 text-white fw-700 lh-1">$49* Call Out Fee</div>
@@ -404,7 +426,7 @@
 <section class="why-us">
     <div class="container">
         <div class="text-white fs-72 lh-1 fw-700 text-center">WHY Should I use<br> Mr Splash <span class="text-primary">Gutter Cleaning Sydney?</span></div>
-        <div class="text-grey fs-18 text-center py-5 d-none d-md-block">Other than the list below, let us explain why the Gutter Cleaning Service Sydney is were it is today since 1990 we have seen an influx quick & cheap style workmanship by contractor style companies that promise the world and provide you a Gutter Cleaning  Service that looks great for the first 3 months, this is because these companies and contractors are not Licensed Gutter Cleaningers, they do not hold pride & workmanship at a high level, like how we do at Mr Splash Gutter Cleaning, tilling is not the essential component to a Gutter Cleaning  Service it's what lies below the TILE, Waterpgutter cleaning last when a Gutter Cleaninger does it, Gutter Cleanings don’t leak when a Gutter Cleaninger does it.</div>
+        <div class="text-grey fs-18 text-center py-5 d-none d-md-block">Other than the list below, let us explain why the Gutter Cleaning Service Sydney is were it is today since 1990 we have seen an influx quick & cheap style workmanship by contractor style companies that promise the world and provide you a Gutter Cleaning Service that looks great for the first 3 months, this is because these companies and contractors are not Licensed Gutter Cleaningers, they do not hold pride & workmanship at a high level, like how we do at Mr Splash Gutter Cleaning, tilling is not the essential component to a Gutter Cleaning Service it's what lies below the TILE, Waterpgutter cleaning last when a Gutter Cleaninger does it, Gutter Cleanings don’t leak when a Gutter Cleaninger does it.</div>
         <?= renderImg('why-us.jpg', 'lib', 'w-100 d-lg-none py-4') ?>
         <div class="row fs-24 align-items-center">
             <div class="col-md-6 col-lg-4">
@@ -468,7 +490,7 @@
                 </div>
             </div>
         </div>
-        <div class="text-center fs-18 lh-1_67 text-grey pt-6 d-none d-md-block">We <span class="text-white fw-500">BUILD GUTTER CLEANINGS THAT LAST A LIFETIME</span>, you are more than likely Renovating your rood  right now because of simply POOR workmanship your gutter cleaning would be discoloured, experiencing cracks, visible mould elements inside the home due to leakage,  a bad smell, black spots in the ceiling. This is the result of poor choices and not using a company like Mr Splash Plumbing & Gutter Cleaning Services your licenced local Plumbing Company</div>
+        <div class="text-center fs-18 lh-1_67 text-grey pt-6 d-none d-md-block">We <span class="text-white fw-500">BUILD GUTTER CLEANINGS THAT LAST A LIFETIME</span>, you are more than likely Renovating your rood right now because of simply POOR workmanship your gutter cleaning would be discoloured, experiencing cracks, visible mould elements inside the home due to leakage, a bad smell, black spots in the ceiling. This is the result of poor choices and not using a company like Mr Splash Plumbing & Gutter Cleaning Services your licenced local Plumbing Company</div>
     </div>
 </section>
 
@@ -590,7 +612,7 @@
                                     </label>
                                 </div>
                                 <div class="form-check">
-                                    <input class="form-check-input" type="radio" name="typeOfRoof"value="Gambrel" id="typeOfRoof6">
+                                    <input class="form-check-input" type="radio" name="typeOfRoof" value="Gambrel" id="typeOfRoof6">
                                     <label class="form-check-label w-100" for="typeOfRoof6">
                                         <div class="d-flex justify-content-md-between">
                                             <div class="order-2 order-md-1 ps-3 ps-md-0">Gambrel</div>
